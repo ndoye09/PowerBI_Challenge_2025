@@ -10,8 +10,8 @@ Bienvenue dans mon challenge de 20 semaines pour devenir une experte Power BI ! 
 - (À compléter chaque semaine)
 
 ## Contact
-- LinkedIn : [Ton profil]
-- Email : [Ton email]
+- LinkedIn : www.linkedin.com/in/diarra-ndoye-7b944a23a
+- Email : diarrandoye867@gmail.com
 
 ## Ressources
 - Microsoft Learn, Guy in a Cube, Curbal, SQLBI
